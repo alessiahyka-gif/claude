@@ -1,0 +1,128 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.393,
+  "clip": 2,
+  "src_in": 0.15,
+  "note": "dark tunnel, green emblem glowing \u2014 fade from black"
+ },
+ {
+  "start": 1.393,
+  "end": 2.786,
+  "clip": 6,
+  "src_in": 0.0,
+  "note": "red carpet from above, guest with flowers"
+ },
+ {
+  "start": 2.786,
+  "end": 3.715,
+  "clip": 7,
+  "src_in": 0.05,
+  "note": "gold ring chandelier, balcony of lights"
+ },
+ {
+  "start": 3.715,
+  "end": 4.644,
+  "clip": 3,
+  "src_in": 2.4,
+  "note": "gold balloon under the vaulted cellar"
+ },
+ {
+  "start": 4.644,
+  "end": 5.573,
+  "clip": 1,
+  "src_in": 1.0,
+  "note": "DJ deck detail, hand on the jog"
+ },
+ {
+  "start": 5.573,
+  "end": 6.037,
+  "clip": 6,
+  "src_in": 3.4,
+  "note": "balcony POV: photographers, crowd"
+ },
+ {
+  "start": 6.037,
+  "end": 6.502,
+  "clip": 4,
+  "src_in": 3.4,
+  "note": "purple vault packed"
+ },
+ {
+  "start": 6.502,
+  "end": 7.036,
+  "clip": 3,
+  "src_in": 15.55,
+  "note": "DJ at the decks, blue light"
+ },
+ {
+  "start": 7.43,
+  "end": 8.359,
+  "clip": 4,
+  "src_in": 0.85,
+  "note": "DROP: champagne raised, sparklers"
+ },
+ {
+  "start": 8.359,
+  "end": 9.288,
+  "clip": 5,
+  "src_in": 0.0,
+  "note": "light show over the crowd from the booth"
+ },
+ {
+  "start": 9.288,
+  "end": 9.752,
+  "clip": 1,
+  "src_in": 7.45,
+  "note": "orange smoke, hands up"
+ },
+ {
+  "start": 9.752,
+  "end": 10.681,
+  "clip": 2,
+  "src_in": 11.7,
+  "note": "strobe: vault crowd / green emblem"
+ },
+ {
+  "start": 10.681,
+  "end": 11.146,
+  "clip": 5,
+  "src_in": 12.0,
+  "note": "cyan/magenta crowd"
+ },
+ {
+  "start": 11.146,
+  "end": 11.61,
+  "clip": 3,
+  "src_in": 16.0,
+  "note": "DJ hands on the mixer"
+ },
+ {
+  "start": 11.61,
+  "end": 12.074,
+  "clip": 4,
+  "src_in": 3.55,
+  "note": "purple vault"
+ },
+ {
+  "start": 12.074,
+  "end": 12.539,
+  "clip": 5,
+  "src_in": 14.5,
+  "note": "green/red crowd wide"
+ },
+ {
+  "start": 12.539,
+  "end": 13.003,
+  "clip": 2,
+  "src_in": 12.85,
+  "note": "strobe flash, balloons"
+ },
+ {
+  "start": 13.003,
+  "end": 13.932,
+  "clip": 3,
+  "src_in": 21.9,
+  "note": "hero wide: gold balloon, rainbow vault \u2014 smash to black"
+ }
+]
